@@ -5,18 +5,17 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently a undergratude in **South China University of Technology**
+- 🌱 I’m currently learning  **Computer Science**
+- 📫 How to reach me: wx: tyf030212
+
+
 
 <!--
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-
-- 📫 How to reach me: wx: tyf030212
-
-<!--
+- 💬 Ask me about ... 
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->

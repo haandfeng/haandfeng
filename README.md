@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 
 I am using github to record what I have learned and made.
 
-![]( https://visitor-badge.glitch.me/badge?page_id=<haadnfeng>)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=haandfeng.visitor-badge)
 
 <!--
 

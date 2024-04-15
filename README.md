@@ -11,7 +11,9 @@ Here are some ideas to get you started: -->
 
 I am using github to record what I have learned and made.
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=haandfeng.visitor-badge)
+Vistors:
+
+![Visitor Count](https://profile-counter.glitch.me/Haandfeng/count.svg)
 
 <!--
 

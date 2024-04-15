@@ -7,9 +7,9 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently a undergratude in **South China University of Technology**
 - 🌱 I’m currently learning  **Computer Science**
-- 📫 How to reach me: wx: tyf030212
+- 📫 How to reach me: **wx: tyf030212**
 
-
+I am using github to record what I have learned and made.
 
 <!--
 

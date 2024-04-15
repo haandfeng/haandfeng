@@ -11,6 +11,8 @@ Here are some ideas to get you started: -->
 
 I am using github to record what I have learned and made.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=haandfeng&left_color=green&right_color=red)
+
 <!--
 
 - 👯 I’m looking to collaborate on ...

@@ -1,4 +1,0 @@
-Flask
-pybadges
-gunicorn
-psycopg2-binary
